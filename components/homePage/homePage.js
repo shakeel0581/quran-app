@@ -18,7 +18,8 @@ import midIMG from '../assets/homepage/5.png';
 
 const HomePage = ({navigation}) => {
   setTimeout(() => {navigation.navigate("Al_Fatiha_Layout")}, 1000);
-  return (
+  return ( 
+    
     <>
       <StatusBar hidden={true} />
       <SafeAreaView>
