@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876107104530",
+    "project_id": "free-quran-f6445",
+    "storage_bucket": "free-quran-f6445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876107104530:android:b9e66b2668ba8277bab3cb",
+        "android_client_info": {
+          "package_name": "com.moveforward.freequrankareemreader.withurduenglishtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876107104530-05in15le2h2kb51639nmejpagfhmuu15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwdUPUyI6EX9Eg2a6obxt06lytuK86ang"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876107104530-05in15le2h2kb51639nmejpagfhmuu15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

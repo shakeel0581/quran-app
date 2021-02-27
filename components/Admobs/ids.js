@@ -1,0 +1,4 @@
+export const APP_ID = 'ca-app-pub-7319221028222951~2055815917';
+export const BANNER_ID = 'ca-app-pub-7319221028222951/2039148825';
+export const INTERSTITIAL_ID = 'ca-app-pub-7319221028222951/6238603506';
+export const NATIVE_ID = 'ca-app-pub-7319221028222951/8801473070';
